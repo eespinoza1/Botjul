@@ -1,0 +1,16 @@
+# Node.js modules
+node_modules/
+
+# Env variables
+.env
+
+# Firebase service account key (clave privada)
+*.json
+
+# Logs
+logs/
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
